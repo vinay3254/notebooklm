@@ -1,0 +1,5 @@
+node_modules/
+.env
+noteai-data.json
+uploads/
+.DS_Store
